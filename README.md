@@ -23,6 +23,11 @@ The output includes color-coded metrics (red/yellow/green) and a progress bar fo
 6. Re-run the script.  
 7. Schedule to run **daily** so pacing data stays fresh.  
 
+## Intended Use
+This Google Ads script is a simple tool to track account-level spend on a monthly level.
+It is not intended for Campaign or Ad Group spend/budget tracking.
+This is ideal for small teams whether in an agency or in-house.
+
 ## Author
 [Sam Lalonde](https://www.linkedin.com/in/samlalonde/)  
 ---
